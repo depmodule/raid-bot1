@@ -1,0 +1,17 @@
+Thank you for purchasing MAGGIE! Raid Bot Originally known as Lusik Private Raid Bot (http://prntscr.com/g64w76). This bot was orignally created by St0rm & Pixl.    
+
+Make sure this program is the legit file and not a infected file. 
+
+SHA-256= fcd409eeb27d64f585d3975009637004d42848a4dacd6a4972018490d7390f06
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+STEPS
+
+1. You will need to disable AV, when using the bot because AV picks it up since its uses proxies to login into the discord accounts, anti-viruses will pick it up as a backdoor
+2. You will need to have Node.js installed, which is provided in the file 
+3. You will need working proxies 
+4. Discord account tokens 
+5. You will then need to edit the config file with the proxies and tokens 
+6. When you click run you should get a error. 
+--------------------------------------------------------------------------------------------------------------------------------------
